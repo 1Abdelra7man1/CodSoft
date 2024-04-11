@@ -1,4 +1,4 @@
-# C++ Tasks ✔
+# C++ Tasks
 
 
 ## 1) NUMBER GUESSING GAME 
