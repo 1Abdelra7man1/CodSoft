@@ -37,7 +37,7 @@ operation to perform.
  **Display Result**: Show the result of the game (win, draw, or ongoing).
 
  **Play Again**: Ask if the players want to play another game.
- # 4) TO-DO LIST
+## 4) TO-DO LIST
  Build a simple console-based to-do list
  manager that allows users to add, view, and
  delete tasks
@@ -52,7 +52,7 @@ operation to perform.
  
  Remove Task: Provide an option to remove tasks from the list.
 
- # 5) LIBRARY MANAGEMENT SYSTEM
+## 5) LIBRARY MANAGEMENT SYSTEM
  Develop a system to manage books, borrowers, and
  transactions in a library.
  
