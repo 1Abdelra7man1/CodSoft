@@ -7,15 +7,15 @@ user to guess it. Provide feedback on whether the guess is too
 high or too low until the user guesses the correct number.
 
 
- ## 2) SIMPLE CALCULATOR 
- Develop a calculator program that performs basic arithmetic
+## 2) SIMPLE CALCULATOR 
+Develop a calculator program that performs basic arithmetic
 operations such as addition, subtraction, multiplication, and
 division. Allow the user to input two numbers and choose an
 operation to perform.
 
 
 ## 3) TIC-TAC-TOE GAME 
-  Build a simple console-based Tic-Tac-Toe game that
+ Build a simple console-based Tic-Tac-Toe game that
  allows two players to play against each other
  
  **Game Board**: Create a 3x3 grid as the game board.
@@ -37,8 +37,8 @@ operation to perform.
  **Display Result**: Show the result of the game (win, draw, or ongoing).
 
  **Play Again**: Ask if the players want to play another game.
-# 4) TO-DO LIST
-Build a simple console-based to-do list
+ # 4) TO-DO LIST
+ Build a simple console-based to-do list
  manager that allows users to add, view, and
  delete tasks
  
@@ -52,3 +52,18 @@ Build a simple console-based to-do list
  
  Remove Task: Provide an option to remove tasks from the list.
 
+ # 5) LIBRARY MANAGEMENT SYSTEM
+ Develop a system to manage books, borrowers, and
+ transactions in a library.
+ 
+ Book Database: Store book information (title, author, ISBN) in a database.
+ 
+ Book Search: Allow users to search for books based on title, author, or ISBN.
+
+ Book Checkout: Enable librarians to check out books to borrowers.
+ 
+ Book Return: Record book returns and update availability status.
+ 
+ Fine Calculation: Implement a fine calculation system for overdue books.
+ 
+ User Interface: Design a user-friendly interface for easy interaction.
