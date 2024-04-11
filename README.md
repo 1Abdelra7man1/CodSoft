@@ -17,8 +17,10 @@ operation to perform.
 ## 3) TIC-TAC-TOE GAME 
   Build a simple console-based Tic-Tac-Toe game that
  allows two players to play against each other
- **Game Board**: Create a 3x3 grid as the game board.
+**Game Board**: Create a 3x3 grid as the game board.
+
 **Players**: Assign "X" and "O" to two players.
+
 **Display Board**: Show the current state of the board.
 **Player Input**: Prompt the current player to enter their move.
 **Update Board**: Update the game board with the player's move.
